@@ -1,3 +1,6 @@
+
+<!--------|---------|---------|------------------- Main Banner  ----------------------------------------------------------------->
+
 <div align="center">
   
   ![Project Banner](https://capsule-render.vercel.app/api?type=wave&color=0:00D4AA,50:FF6B8B,100:1e3a8a&height=200&section=header&text=+PERSONAL+GYM+TRAINER+&fontSize=50&fontColor=ffffff&animation=scale&desc=++++C%2B%2B+%7C+SMART+FITNESS+%7C+HEALTH+TRACKING++++&descSize=20&descAlignY=40&fontAlignY=20&stroke=ffffff&strokeWidth=1)
